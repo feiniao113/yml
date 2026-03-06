@@ -1,6 +1,6 @@
 {
   "spider": "./ok.jar",
-  "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
+  "wallpaper":"https://raw.githubusercontent.com/feiniao113/yml/refs/heads/lib/IMG_20260227_233041.jpg",
   "logo":"./lib/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
   "sites": [
     {"key":"豆瓣","name":"🔥豆瓣┃热播","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":1, "ext": {"sp": "Douban"}},
